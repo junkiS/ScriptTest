@@ -9,7 +9,7 @@ void Start()
         int[] array = {10,20,30,40,50};
         
 
-        for(int i=4; 0 <=i; i--)
+        for(int i=0; i<=4; i++)
         {
             Debug.Log (array[i]);
         }
